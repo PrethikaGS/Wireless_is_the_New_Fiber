@@ -10,6 +10,7 @@ should be exactly one way to travel between them along the wireless links.Your t
 minimizing the number of nodes that do not have the same number of connections as in the original
 network.
 
-## The code implemented focusses on 
+## The code implemented :
+
 focuses on removing redundant links found between fiber-based communications network, given as a graph, and convert it into an optimal tree data structure thereby making the connections ‘Wireless’ using the greedy algorithm and python as the programming language.
 We calculate the inorder degree of the nodes, take the node with the highest degree and connect it with the remaining nodes
